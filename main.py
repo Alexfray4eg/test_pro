@@ -1,5 +1,4 @@
 from algorithm_manager_class import AlgorithmManager
-
 if __name__ == "__main__":
     manager = AlgorithmManager()
 
